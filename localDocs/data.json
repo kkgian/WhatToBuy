@@ -1,0 +1,76 @@
+{
+  "category": [
+    {
+      "code": "Detergent" 
+    },
+    { 
+      "code": "Oral Care" 
+    },
+    {
+      "code": "Hand Care" 
+    },
+    {
+      "code": "Home Fragrance"      
+    },
+    {
+      "code": "Insect & Pest Control"      
+    },
+    {
+      "code": "Dry Noodles"      
+    },
+    {
+      "code": "Instant Noodles"      
+    },
+    {
+      "code": "Spices & Stocks" 
+    },
+    {
+      "code": "Pasta & Pasta Saurce" 
+    } 
+  ],
+
+  "ItemMaster":[
+    { 
+      "category": "Detergent",
+      "code": "Attact 2.4Kg", 
+      "sku": "24324324343",
+      "imgurl": "http://image.com/1.jpg" 
+    },
+    {
+      "category": "Instant Noodles",
+      "code": "Maggie 5 in 1",
+      "sku": "43243243243433",
+      "imgurl": ""
+    }
+  ],
+
+  "Shopping":[
+    {
+      "name": "Tesco Damansara",
+      "location": ""
+    },
+    {
+      "name": "Giant Sea Park" ,
+      "location": ""
+    }
+  ],
+  
+  "toBuy": [
+    {
+      "toBuyDate": "2015-05-31",
+      "toBuyAt": "Tesco Damansara",
+      "toBuyItems": [
+        {
+          "category": "Detergent",
+          "item": "Attact 2.4Kg", 
+          "qty": 2          
+        },
+        {
+          "category": "Instant Noodles",
+          "item": "Maggie 5 in 1",
+          "qty": 1
+        }
+      ]
+    } 
+  ]
+}
